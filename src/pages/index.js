@@ -19,8 +19,8 @@ const imgStyle = {
     maxWidth: '100%'
 }
 
-const nameStyle = {
-    candyFamily: 'Emilys Candy'
+const candyStyle = {
+    fontFamily: 'Emilys Candy'
 }
 
 export default () => (
