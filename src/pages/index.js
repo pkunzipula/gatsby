@@ -29,7 +29,8 @@ const imgStyle = {
 }
 
 const candyStyle = {
-    fontFamily: 'Emilys Candy'
+    fontFamily: 'Emilys Candy',
+    color: '#C71585'
 }
 
 export default () => (
