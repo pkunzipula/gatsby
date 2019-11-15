@@ -8,10 +8,10 @@ const divStyle = {
     margin: '20px auto',
     maxWidth: '1500px',
     textAlign: 'center',
-    color: '#ccc',
+    color: '#878787',
     fontFamily: 'Fira Sans',
-    fontSize: '2rem',
-    lineHeight: '2.825rem'
+    fontSize: '1.625rem',
+    lineHeight: '2rem'
 };
 
 const h1Style = {
