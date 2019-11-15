@@ -2,14 +2,14 @@ import React from "react"
 import { Link } from "gatsby"
 import Header from "../components/header"
 import 'typeface-emilys-candy';
-import 'typeface-fira-sans-condensed';
+import 'typeface-fira-sans';
 
 const divStyle = {
     margin: '20px auto',
     maxWidth: '1500px',
     textAlign: 'center',
     color: '#ccc',
-    fontFamily: 'Fira Sans Condensed',
+    fontFamily: 'Fira Sans',
     fontSize: '2rem',
     lineHeight: '2.825rem'
 };
