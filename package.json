@@ -17,6 +17,7 @@
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "typeface-emilys-candy": "0.0.72",
+    "typeface-fira-sans-condensed": "0.0.72",
     "typeface-fresca": "0.0.71"
   },
   "repository": {
