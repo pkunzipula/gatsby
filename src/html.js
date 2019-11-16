@@ -7,6 +7,7 @@ export default class HTML extends React.Component {
     return (
       <html {...this.props.htmlAttributes}>
         <head>
+        {this.props.headComponents}
           <Helmet>
             <meta charSet="utf-8" />
             <meta httpEquiv="x-ua-compatible" content="ie=edge" />
@@ -14,8 +15,6 @@ export default class HTML extends React.Component {
               name="viewport"
               content="width=device-width, initial-scale=1, shrink-to-fit=no"
             />
-            {this.props.headComponents}
-            
             <script src='https://square.site/appointments/buyer/widget/e8ca7d60-65e3-4d57-a158-2baa7ce22824/5MV4D52P5H8ZY.js'></script>
           </Helmet>
         </head>
