@@ -16,6 +16,7 @@
     "gatsby": "^2.0.76",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
+    "react-helmet": "^5.2.1",
     "typeface-emilys-candy": "0.0.72",
     "typeface-fira-sans": "0.0.75"
   },
