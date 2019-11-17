@@ -14,6 +14,7 @@
   "dependencies": {
     "core-js": "^2.6.2",
     "gatsby": "^2.0.76",
+    "gatsby-plugin-react-helmet": "^3.1.15",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.1",
