@@ -26,14 +26,7 @@ export default class HTML extends React.Component {
             dangerouslySetInnerHTML={{ __html: this.props.body }}
           />
           {this.props.postBodyComponents}
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-                      var name = 'world';
-                      console.log('Hello you sunnuva ' + name);
-                  `,
-            }}
-          />
+          
         </body>
       </html>
     )
